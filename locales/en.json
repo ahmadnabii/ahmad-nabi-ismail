@@ -1,0 +1,221 @@
+{
+  "site": {
+    "title": "Candidate Name"
+  },
+  "nav": {
+    "home": "Home",
+    "cv": "CV",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "heading": "A Vision for Progress",
+    "subheading": "کاندیدی پارتی دیموکراتی کوردستان بۆ پەرلەمانی عێراق",
+    "cta": "Read Policies"
+  },
+  "about": {
+    "title": "About the Candidate",
+    "body": "Candidate Name is committed to transparency, economic growth, and inclusive services for all."
+  },
+  "policies": {
+    "title": "Key Policies",
+    "item1": "Jobs and Economic Development",
+    "item2": "Quality Education for Every Child",
+    "item3": "Accessible Healthcare"
+  },
+  "gallery": {
+    "title": "Campaign Gallery",
+    "subtitle": "Moments from our journey together",
+    "candidate_name": "Ahmad Nabi Ismail",
+    "time_1": "2 hours ago",
+    "time_2": "1 day ago",
+    "time_3": "3 days ago",
+    "time_4": "1 week ago",
+    "post1_text": "Meeting with community leaders to discuss our vision for a better future. Together, we can build stronger communities.",
+    "post2_text": "Watch my speech at the recent town hall meeting where I outlined our key policies for economic development.",
+    "post3_text": "Campaign events and community outreach activities across the region. Thank you for your support!",
+    "quote": "\"A leader is one who knows the way, goes the way, and shows the way.\" - John Maxwell",
+    "like": "Like",
+    "comment": "Comment",
+    "share": "Share",
+    "video_fallback": "Your browser doesn't support video playback."
+  },
+  "contact": {
+    "title": "Get Involved",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "email@example.com",
+    "messagePlaceholder": "Your message",
+    "submit": "Send",
+    "thankYouTitle": "Thank You!",
+    "thankYouText": "Your message has been sent successfully. We'll get back to you soon!",
+    "close": "Close"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "loginTitle": "Login to Your Account",
+    "cancel": "Cancel",
+    "signInRequired": "Please sign in to like posts",
+    "commentRequired": "Please sign in to comment on posts"
+  },
+  "footer": {
+    "copyright": "© 2025 Campaign. All rights reserved."
+  },
+  "cv": {
+    "title": "Curriculum Vitae",
+    "personal": {
+      "title": "Personal Information",
+      "fullname": "Full Name",
+      "fullname_value": "Ahmad Nabi Ismail",
+      "dateofbirth": "Date of Birth",
+      "dateofbirth_value": "January 15, 1985",
+      "birthplace": "Place of Birth",
+      "birthplace_value": "Baghdad, Iraq",
+      "nationality": "Nationality",
+      "nationality_value": "Iraqi",
+      "religion": "Religion",
+      "religion_value": "Islam",
+      "maritalstatus": "Marital Status",
+      "maritalstatus_value": "Married"
+    },
+    "location": {
+      "title": "Location Information",
+      "current_address": "Current Address",
+      "current_address_value": "Al-Karkh District, Baghdad, Iraq",
+      "permanent_address": "Permanent Address",
+      "permanent_address_value": "Al-Rusafa District, Baghdad, Iraq",
+      "phone": "Phone Number",
+      "phone_value": "+964 770 123 4567",
+      "email": "Email Address",
+      "email_value": "ahmad.nabi@example.com"
+    },
+    "job": {
+      "title": "Current Job Information",
+      "position": "Current Position",
+      "position_value": "Regional Development Coordinator",
+      "organization": "Organization",
+      "organization_value": "Ministry of Regional Affairs",
+      "department": "Department",
+      "department_value": "Economic Development Division"
+    },
+    "education": {
+      "title": "Education",
+      "primary_title": "Primary Education",
+      "primary_school": "School Name",
+      "primary_school_value": "Al-Mustansiriyah Primary School",
+      "primary_years": "Years",
+      "primary_years_value": "1997 - 2003",
+      "primary_grade": "Final Grade",
+      "primary_grade_value": "Excellent (95%)",
+      "secondary_title": "Secondary Education",
+      "secondary_school": "School Name",
+      "secondary_school_value": "Baghdad Central High School",
+      "secondary_years": "Years",
+      "secondary_years_value": "2003 - 2009",
+      "secondary_branch": "Branch",
+      "secondary_branch_value": "Scientific",
+      "secondary_grade": "Final Grade",
+      "secondary_grade_value": "Very Good (88%)",
+      "higher_title": "Higher Education",
+      "university": "University",
+      "university_value": "University of Baghdad",
+      "college": "College",
+      "college_value": "College of Political Science",
+      "degree": "Degree",
+      "degree_value": "Bachelor of Political Science",
+      "graduation_year": "Graduation Year",
+      "graduation_year_value": "2014",
+      "gpa": "GPA",
+      "gpa_value": "3.7/4.0 (Very Good)",
+      "note": "Note: All educational certificates are verified and authenticated by the Ministry of Education and Ministry of Higher Education of Iraq."
+    },
+    "languages": {
+      "title": "Languages",
+      "arabic": "Arabic",
+      "arabic_level": "Native (Mother Tongue)",
+      "kurdish": "Kurdish",
+      "kurdish_level": "Fluent (Advanced)",
+      "english": "English",
+      "english_level": "Good (Intermediate)",
+      "turkish": "Turkish",
+      "turkish_level": "Basic (Elementary)"
+    },
+    "computer": {
+      "title": "Computer Program Experience",
+      "office_title": "Office Programs",
+      "word": "Microsoft Word",
+      "word_level": "Advanced",
+      "excel": "Microsoft Excel",
+      "excel_level": "Intermediate",
+      "powerpoint": "Microsoft PowerPoint",
+      "powerpoint_level": "Advanced",
+      "outlook": "Microsoft Outlook",
+      "outlook_level": "Good",
+      "internet_title": "Internet & Communication",
+      "browsing": "Web Browsing",
+      "browsing_level": "Expert",
+      "email": "Email Management",
+      "email_level": "Advanced",
+      "social_media": "Social Media",
+      "social_media_level": "Advanced",
+      "video_calls": "Video Conferencing",
+      "video_calls_level": "Good",
+      "specialized_title": "Specialized Software",
+      "database": "Database Management",
+      "database_level": "Basic",
+      "pdf": "PDF Management",
+      "pdf_level": "Good",
+      "government_systems": "Government Systems",
+      "government_systems_level": "Intermediate",
+      "typing": "Arabic/English Typing",
+      "typing_level": "Fast (45 WPM)"
+    },
+    "partners": {
+      "title": "Partners & Collaborations",
+      "government": "Government Partners",
+      "government_value": "Ministry of Planning, Baghdad Municipality",
+      "international": "International Organizations",
+      "international_value": "UN Development Program, World Bank",
+      "ngo": "NGO Partners",
+      "ngo_value": "Iraqi Red Crescent, Civil Society Network",
+      "private": "Private Sector",
+      "private_value": "Local Business Chamber, Construction Companies",
+      "academic": "Academic Institutions",
+      "academic_value": "University of Baghdad, Baghdad Institute",
+      "community": "Community Leaders",
+      "community_value": "Tribal Leaders, Religious Leaders, Youth Groups"
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "position1": "Regional Development Coordinator",
+      "company1": "Ministry of Regional Affairs",
+      "date1": "2020 - Present",
+      "desc1": "Led strategic initiatives for economic development and infrastructure improvement across multiple districts",
+      "position2": "Policy Analyst",
+      "company2": "Regional Planning Commission",
+      "date2": "2018 - 2020",
+      "desc2": "Conducted research and analysis on social and economic policies affecting local communities"
+    },
+    "achievements": {
+      "title": "Key Achievements",
+      "item1": "Secured $2.5M in federal funding for infrastructure projects",
+      "item2": "Implemented youth employment program creating 500+ jobs",
+      "item3": "Led digital transformation initiative improving public services efficiency by 40%",
+      "item4": "Established partnerships with 15+ local businesses for community development"
+    },
+    "skills": {
+      "title": "Core Competencies",
+      "skill1": "Strategic Planning",
+      "skill2": "Public Policy",
+      "skill3": "Budget Management",
+      "skill4": "Community Engagement",
+      "skill5": "Project Leadership",
+      "skill6": "Economic Development"
+    }
+  }
+}
+
+

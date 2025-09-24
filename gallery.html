@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gallery - Candidate Name</title>
+    <meta name="theme-color" content="#0b1220">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="gallery.css">
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="index.html" data-i18n="site.title">Candidate Name</a>
+        <nav class="main-nav">
+          <a href="index.html" data-i18n="nav.home">Home</a>
+          <a href="#contact" data-i18n="nav.contact">Contact</a>
+        </nav>
+        <nav aria-label="Language selector" class="lang-switcher">
+          <div class="lang-dropdown">
+            <button class="lang-dropdown-btn" aria-expanded="false" aria-haspopup="true">
+              <img src="assets/uk.png" alt="English" class="lang-flag-img">
+              <span class="lang-text">English</span>
+              <span class="lang-arrow">▼</span>
+            </button>
+            <div class="lang-dropdown-menu">
+              <button data-lang="en" class="lang-option" data-flag="assets/uk.png" data-text="English">
+                <img src="assets/uk.png" alt="English" class="lang-flag-img">
+                <span class="lang-text">English</span>
+              </button>
+              <button data-lang="ar" class="lang-option" data-flag="assets/iraq.png" data-text="العربية">
+                <img src="assets/iraq.png" alt="Arabic" class="lang-flag-img">
+                <span class="lang-text">العربية</span>
+              </button>
+              <button data-lang="ckb" class="lang-option" data-flag="assets/kurdistan.png" data-text="کوردی">
+                <img src="assets/kurdistan.png" alt="Kurdish" class="lang-flag-img">
+                <span class="lang-text">کوردی</span>
+              </button>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main class="gallery-main">
+      <div class="container">
+        <section class="gallery-header">
+          <h1 data-i18n="gallery.title">Campaign Gallery</h1>
+          <p data-i18n="gallery.subtitle">Moments from our journey together</p>
+        </section>
+
+        <div class="gallery-feed">
+          <!-- Post 1: Image -->
+          <article class="gallery-post">
+            <div class="post-header">
+              <div class="post-author">
+                <img src="assets/banner2.jpg" alt="Candidate" class="author-avatar">
+                <div class="author-info">
+                  <h3><span data-i18n="gallery.candidate_name">Ahmad Nabi Ismail</span> <img src="assets/check.png" alt="Verified" class="verified-badge"></h3>
+                  <span class="post-time" data-i18n="gallery.time_1">2 hours ago</span>
+                </div>
+              </div>
+            </div>
+            <div class="post-content">
+              <p data-i18n="gallery.post1_text">Meeting with community leaders to discuss our vision for a better future. Together, we can build stronger communities.</p>
+              <div class="post-media">
+                <img src="assets/banner2.jpg" alt="Community meeting" class="post-image">
+              </div>
+            </div>
+            <div class="post-actions">
+              <button class="action-btn like-btn" data-i18n="gallery.like">Like <span class="like-count">0</span></button>
+              <button class="action-btn comment-btn" data-i18n="gallery.comment">Comment</button>
+              <button class="action-btn share-btn" data-i18n="gallery.share">Share</button>
+            </div>
+          </article>
+
+          <!-- Post 2: Video -->
+          <article class="gallery-post">
+            <div class="post-header">
+              <div class="post-author">
+                <img src="assets/banner2.jpg" alt="Candidate" class="author-avatar">
+                <div class="author-info">
+                  <h3><span data-i18n="gallery.candidate_name">Ahmad Nabi Ismail</span> <img src="assets/check.png" alt="Verified" class="verified-badge"></h3>
+                  <span class="post-time" data-i18n="gallery.time_2">1 day ago</span>
+                </div>
+              </div>
+            </div>
+            <div class="post-content">
+              <p data-i18n="gallery.post2_text">Watch my speech at the recent town hall meeting where I outlined our key policies for economic development.</p>
+              <div class="post-media">
+                <div class="video-container">
+                  <video controls poster="assets/banner2.jpg" class="post-video">
+                    <source src="assets/sample-video.mp4" type="video/mp4">
+                    <p data-i18n="gallery.video_fallback">Your browser doesn't support video playback.</p>
+                  </video>
+                </div>
+              </div>
+            </div>
+            <div class="post-actions">
+              <button class="action-btn like-btn" data-i18n="gallery.like">Like <span class="like-count">0</span></button>
+              <button class="action-btn comment-btn" data-i18n="gallery.comment">Comment</button>
+              <button class="action-btn share-btn" data-i18n="gallery.share">Share</button>
+            </div>
+          </article>
+
+          <!-- Post 3: Image Grid -->
+          <article class="gallery-post">
+            <div class="post-header">
+              <div class="post-author">
+                <img src="assets/banner2.jpg" alt="Candidate" class="author-avatar">
+                <div class="author-info">
+                  <h3><span data-i18n="gallery.candidate_name">Ahmad Nabi Ismail</span> <img src="assets/check.png" alt="Verified" class="verified-badge"></h3>
+                  <span class="post-time" data-i18n="gallery.time_3">3 days ago</span>
+                </div>
+              </div>
+            </div>
+            <div class="post-content">
+              <p data-i18n="gallery.post3_text">Campaign events and community outreach activities across the region. Thank you for your support!</p>
+              <div class="post-media">
+                <div class="image-grid">
+                  <img src="assets/banner2.jpg" alt="Campaign event 1" class="grid-image">
+                  <img src="assets/banner2.jpg" alt="Campaign event 2" class="grid-image">
+                  <img src="assets/banner2.jpg" alt="Campaign event 3" class="grid-image">
+                  <img src="assets/banner2.jpg" alt="Campaign event 4" class="grid-image">
+                </div>
+              </div>
+            </div>
+            <div class="post-actions">
+              <button class="action-btn like-btn" data-i18n="gallery.like">Like <span class="like-count">0</span></button>
+              <button class="action-btn comment-btn" data-i18n="gallery.comment">Comment</button>
+              <button class="action-btn share-btn" data-i18n="gallery.share">Share</button>
+            </div>
+          </article>
+
+          <!-- Post 4: Quote -->
+          <article class="gallery-post">
+            <div class="post-header">
+              <div class="post-author">
+                <img src="assets/banner2.jpg" alt="Candidate" class="author-avatar">
+                <div class="author-info">
+                  <h3><span data-i18n="gallery.candidate_name">Ahmad Nabi Ismail</span> <img src="assets/check.png" alt="Verified" class="verified-badge"></h3>
+                  <span class="post-time" data-i18n="gallery.time_4">1 week ago</span>
+                </div>
+              </div>
+            </div>
+            <div class="post-content">
+              <blockquote class="quote-post" data-i18n="gallery.quote">"A leader is one who knows the way, goes the way, and shows the way." - John Maxwell</blockquote>
+            </div>
+            <div class="post-actions">
+              <button class="action-btn like-btn" data-i18n="gallery.like">Like <span class="like-count">0</span></button>
+              <button class="action-btn comment-btn" data-i18n="gallery.comment">Comment</button>
+              <button class="action-btn share-btn" data-i18n="gallery.share">Share</button>
+            </div>
+          </article>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p data-i18n="footer.copyright">© 2025 Campaign. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="scripts/i18n.js" defer></script>
+    <script src="scripts/auth.js" defer></script>
+    <script src="scripts/gallery.js" defer></script>
+  </body>
+</html>
